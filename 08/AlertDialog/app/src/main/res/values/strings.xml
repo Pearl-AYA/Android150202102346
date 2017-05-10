@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="hello">AletrDialog</string>
+    <string name="welcome">欢迎</string>
+    <string name="message">欢迎使用本程序</string>
+</resources>
